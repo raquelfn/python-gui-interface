@@ -4,7 +4,9 @@ A GUI-based simulator for estimating the thickness of thin films produced by the
 Key Features
 
 Estimates film thickness for deposition processes
+
 User-friendly interface for simulations
+
 Designed specifically for target design in nuclear physics experiments
 
 Quick Start
